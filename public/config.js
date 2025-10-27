@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/web_3crypto",
   "VITE_SEO_SITE_NAME": "WOOHOO",
   "VITE_SEO_SITE_DESCRIPTION": "The first AI-powered, multi-chain DEX for RWAs and perpetuals.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/woohoo-5666/",
+  "VITE_SEO_SITE_URL": "https://prep.woohoo.cash",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@web_3crypto",
